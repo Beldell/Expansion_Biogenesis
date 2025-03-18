@@ -1,1 +1,2 @@
-# Proyectos-Finales
+# Conclusion:
+ A lo largo del análisis realizado con las visualizaciones y el dashboard, se identificaron varias tendencias y correlaciones clave entre diferentes variables relacionadas con la pandemia de COVID-19 en América Latina. El análisis reveló una correlación negativa significativa entre la temperatura media y la prevalencia de casos confirmados, así como entre la densidad poblacional y los casos recuperados. Los países con mayores desafíos en términos de nuevos casos confirmados y decesos fueron Brasil, Argentina y México, destacándose también en la administración de dosis de vacunación.
